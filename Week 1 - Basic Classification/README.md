@@ -8,7 +8,7 @@
 
 1. [Introduction to ML](https://www.youtube.com/watch?v=Gv9_4yMHFhI)
 
-1. [Slides used in our intro to ML workshop]() (attached): For those of you who weren't able to attend the offline introduction, see what you can understand from the slides and skip the rest. Once you are done with this weeks content, come back to it and see if you can make sense out of it.
+1. [Slides used in our intro to ML workshop](https://github.com/majimearun/crux-ml-workshop/blob/main/Week%201%20-%20Basic%20Classification/Intro%20to%20ML%20slides.pdf) (attached): For those of you who weren't able to attend the offline introduction, see what you can understand from the slides and skip the rest. Once you are done with this weeks content, come back to it and see if you can make sense out of it.
 
 1. [Understanding the concept of train-test split](https://www.youtube.com/watch?v=_vdMKioCXqQ)
 
