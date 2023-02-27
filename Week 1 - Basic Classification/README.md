@@ -36,9 +36,15 @@
 
 1. [The confusion matrix](https://www.youtube.com/watch?v=Kdsp6soqA7o)
 
-1. Your first classification model: [Naive Bayes](https://www.youtube.com/watch?v=O2L2Uv9pdDA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=45)
+1. Your first classification model: [Naive Bayes: Multinomial](https://www.youtube.com/watch?v=O2L2Uv9pdDA&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=45)
 
-1. [Implementing Naive Bayes using sklearn](https://www.datacamp.com/tutorial/naive-bayes-scikit-learn)
+1. Your first classification model (contd.): [Naive Bayes: Gaussian](https://www.youtube.com/watch?v=H3EjCKtlVog)
+
+1. [Choosing between different Naive Bayes nodels](https://stackoverflow.com/questions/48580762/difference-of-three-naive-bayes-classifiers) : StackOverflow answer
+
+1. [Implementing Naive Bayes (Gaussian) using sklearn](https://www.datacamp.com/tutorial/naive-bayes-scikit-learn)
+
+1. [Basic implementation of 3 common Naive Bayes algorithms](https://hub.packtpub.com/implementing-3-naive-bayes-classifiers-in-scikit-learn/#:~:text=The%20value%20can%20be%20the,by%20its%20mean%20and%20variance.)
 
 1. Second classification model: [Logistic Regression](https://www.youtube.com/watch?v=yIYKR4sgzI8&list=PLblh5JKOoLUICTaGLRoHQDuF_7q2GfuJF&index=19)
 
