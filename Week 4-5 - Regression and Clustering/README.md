@@ -1,4 +1,4 @@
-# Weeks 5 and 5: Regression and Clustering
+# Weeks 4 and 5: Regression and Clustering
 
 ## Day 1-6: Other types of regression
 
