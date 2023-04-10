@@ -1,4 +1,4 @@
-# Weeks 6 and 7: Regression and Clustering
+# Weeks 6 and 7: Applied Deep learning: Speedrun
 
 ## Day 1-7: Intro to applied deep learning
 
