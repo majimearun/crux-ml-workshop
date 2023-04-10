@@ -46,7 +46,7 @@ There's also something called [PyTorch Lightning](https://lightning.ai/docs/pyto
 
 There are seperate packages as well that will help you in computer vision, nlp problems, audio etc. like torchvision, torchtext, torchaudio etc.
 
-Both tensorfow and pytorch have rich hubs with pre-trained state of the art models. (We'll revisit this in transfer learning don't worry, but you can read up on it now as well.)
+Both tensorflow and pytorch have rich hubs with pre-trained state of the art models. (We'll revisit this in transfer learning don't worry, but you can read up on it now as well.)
 
 1. [Fireship: PyTorch in 100s](https://www.youtube.com/watch?v=ORMx45xqWkA)
 
