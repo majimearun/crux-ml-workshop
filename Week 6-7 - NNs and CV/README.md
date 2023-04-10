@@ -54,7 +54,7 @@ Both tensorfow and pytorch have rich hubs with pre-trained state of the art mode
 
 Well, for now I'd day let JAX be. It's an insane library for linear algebra (XLA = Accelerated Linear ALgebra) with Autograd (It isn't a deep learning library, but you can easily create networks using it and there are newer deep learning libraries like Haiku based on it).
 
-However I'm still getting the hang of it, so currently I wont be much for you. But if possible we can hold a ws later on this year for you nerds.
+However I'm still getting the hang of it, so currently I wont be much help for you. But if possible we can hold a ws later on this year for you nerds.
 
 ### Videos/ Tutorials (Do 1 & 2 OR 3 after choosing a framework)
 
