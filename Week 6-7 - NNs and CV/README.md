@@ -81,7 +81,7 @@ I haven't done the tensorflow one completely myself, but if the same thing is th
 4. [U-Net and segmentation with Keras (example)](https://www.kaggle.com/code/vbookshelf/simple-cell-segmentation-with-keras-and-u-net)
 5. [U-Net and segmentation with PyTorch (example)](https://www.kaggle.com/code/gokulkarthik/image-segmentation-with-unet-pytorch)
 
-Finding tutorials where they give coding demos beyonbd these is upto you, as you're all probably quite well acquainted with the frameworks and may have some personal preferences too. However if you need any clarification, free feel to reach out.
+Finding tutorials where they give coding demos beyond these is upto you, as you're all probably quite well acquainted with the frameworks and may have some personal preferences too. However if you need any clarification, free feel to reach out.
 
 ### Optional
 
