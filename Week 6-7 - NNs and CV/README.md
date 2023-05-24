@@ -74,7 +74,19 @@ I haven't done the tensorflow one completely myself, but if the same thing is th
 
 ## Day 8-14: Computer Vision
 
+1. [Miscrosoft's introduction to computer vision module](https://learn.microsoft.com/en-us/training/modules/intro-computer-vision-pytorch/)
+2. [DeepLearningAI's course on computer vision (By far my favourite): mostly theory though](https://www.youtube.com/playlist?list=PLkDaE6sCZn6Gl29AoE31iwdVwSG-KnDzF)
+3. [Paper replicating: Vision Transformer](https://github.com/mrdbourke/pytorch-deep-learning/blob/main/08_pytorch_paper_replicating.ipynb)
+4. [Understanding U-Nets (he has a couple more vidoes on the same, so follow along the series for as long as it is relevant)](https://www.youtube.com/watch?v=GAYJ81M58y8)
+4. [U-Net and segmentation with Keras (example)](https://www.kaggle.com/code/vbookshelf/simple-cell-segmentation-with-keras-and-u-net)
+5. [U-Net and segmentation with PyTorch (example)](https://www.kaggle.com/code/gokulkarthik/image-segmentation-with-unet-pytorch)
+
+Finding tutorials where they give coding demos beyonbd these is upto you, as you're all probably quite well acquainted with the frameworks and may have some personal preferences too. However if you need any clarification, free feel to reach out.
+
 ### Optional
+
+1. [U-Net from scratch in PyTorch](https://www.youtube.com/watch?v=IHq1t7NxS8k)
+2. [U-Net paper: get used to reading papers (atleast to be able to get a gist of the model)!!](https://paperswithcode.com/method/u-net) 
 
 ## Day 15-18: Contest (Final)
 
